@@ -73,15 +73,15 @@ Também demonstra o uso de **estruturas de decisão**, **repetição**, **funç�
 ## 📘 Outros Estudos
 
 Além dos trabalhos realizados na faculdade, mantenho um repositório público chamado **[My Notes](https://github.com/zJuliano/my_notes)**, onde registro todas as minhas **anotações, estudos e exercícios** feitos por fora da graduação.
-O objetivo desse repositório é documentar toda minha **evolução na programação**
+O objetivo desse repositório é documentar toda a minha **evolução na programação**, de mim para mim, desde o início dos estudos até o momento em que eu criar uma carreira sólida como desenvolvedor.
 
 ---
 
 ## ✍️ Autor
 
-**Juliano De Almeida Santos**
-Estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**
-💻 Foco em desenvolvimento de software e aprimoramento constante na área de programação.
-📂 [Repositório de estudos pessoais - My Notes](https://github.com/zJuliano/my_notes)
+- **Juliano De Almeida Santos**
+- Estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**
+- 💻 Foco em desenvolvimento de software e aprimoramento constante na área de programação.
+- 📂 [Repositório de estudos pessoais - My Notes](https://github.com/zJuliano/my_notes)
 
 ---

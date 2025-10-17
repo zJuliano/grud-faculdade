@@ -198,10 +198,6 @@ while True:
     except:
         msg_erro = "Por favor, digite APENAS números"
         continue
-
-    if opcao < 1 or opcao > 5:
-        msg_erro = "Por favor, digite um número entre 1 a 5"
-        continue
     
     if opcao == 1:
         adicionar_produto()
@@ -214,3 +210,6 @@ while True:
     elif opcao == 5:
         print("Programa encerrado!")
         break
+    else:
+        msg_erro = "Por favor, digite um número entre 1 a 5"
+        continue
