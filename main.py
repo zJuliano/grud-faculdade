@@ -1,7 +1,7 @@
 import os
 
-lista_produtos = ["iPhone"]
-lista_precos = [6000]
+lista_produtos = []
+lista_precos = []
 
 msg_erro = None
 
